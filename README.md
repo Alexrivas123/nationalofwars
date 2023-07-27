@@ -1,2 +1,3 @@
 # nationalofwars
-un  mundo donde las naciones luchan para sobrevivir
+el mundo sufrio un cambio que provoco el colapso del sistema mundial
+
